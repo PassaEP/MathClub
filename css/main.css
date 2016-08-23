@@ -22,15 +22,6 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 
-.navbar { 
-  background-color: #0007EF;
-}
-
-h1 {
-  color: white;
-  
-}
-}
 a {
   color: #008AFF;
 }
@@ -107,7 +98,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: #0007EF;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
