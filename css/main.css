@@ -98,7 +98,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #0007EF;
+  background: #132F92;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -213,6 +213,7 @@ img {
   }
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
+    color: black;
   }
 }
 @media only screen and (min-width: 768px) {
