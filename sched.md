@@ -1,4 +1,7 @@
-#The Schedule 
+---
+layout: page
+title: The Schedule
+---
 
 ##TBA 
 
