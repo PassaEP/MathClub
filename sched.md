@@ -11,7 +11,7 @@ title: The Schedule
 
 ### 3. Berkeley Math Tournament in Early March 2017
 
-### 4.  Late February 2017
+### 4.  M3 Challenge in Early February 2017
 
 
 
