@@ -12,7 +12,7 @@ title: The Schedule
 ## Friday, Lunch after SUCCESS (for now) 
 ---
 
-# Competitions
+# COMPETITIONS
 
 ### 1. COMAP Competition November 4, 2016 
 
@@ -21,6 +21,8 @@ title: The Schedule
 ### 3. Berkeley Math Tournament in Early March 2017
 
 ### 4.  M3 Challenge in Early February 2017
+
+### 5. AMC 10 & 12 in Early February 2017
 
 ---
 
